@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is <strong> Aurelian</strong>  and right now im studying at <strong>Full-time Web Developer</strong> in Madrid at<strong>4GeeksAcademy</strong>
 
 <!--
 **aurelianvoinea6/aurelianvoinea6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
