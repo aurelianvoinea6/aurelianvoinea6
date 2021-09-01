@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelianvoinea6" alt="aurelianvoinea6" /></a> </p>
 
-📫 Contact Me **aurelianvoinea77@gmail.com**
+📫 Contact Me: **aurelianvoinea77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
